@@ -1,6 +1,6 @@
 # 🤩🎲 Tenzies
 
-https://quizzical-scrimba.vercel.app/
+(https://tenzies-scrimba.netlify.app/)
 
 **_Tenzies WebApp is inspired by a game called Tenzi. Player can hold dice and roll until all ten dice be the same value. Tenzies WebApp even record the best record for our players. _**
 
