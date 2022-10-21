@@ -2,7 +2,7 @@
 
 https://tenzies-scrimba.netlify.app/
 
-**_Tenzies WebApp is inspired by a game called Tenzi. Player can hold dice and roll until all ten dice be the same value. Tenzies WebApp even record the best record for our players._**
+**_Tenzies WebApp is inspired by a game called Tenzi. Player can hold dice and roll until all ten dice be the same value. Tenzies WebApp even counts the best record for our players._**
 
 **_This is the one of the final Project of [Bob Ziroll's React Course on Scrimba](https://scrimba.com/learn/learnreact) developed from scratch by me._**
 
